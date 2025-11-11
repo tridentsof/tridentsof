@@ -1,60 +1,94 @@
-<!-- README for @tridentsof -->
-<h1 align="center">👋 Hey, I'm Dang Phuoc Tri</h1>
-<h3 align="center">💻 Full-Stack Software Engineer | Vietnam 🇻🇳</h3>
+<!-- ⚡ README for @tridentsof -->
+<!-- Theme: Minimalist Black & Neon | Author: Dang Phuoc Tri -->
+
+<h1 align="center">⚡ Dang Phuoc Tri (@tridentsof)</h1>
+<p align="center"><b>Full-Stack Software Engineer | Azure Cloud | Kubernetes</b></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?size=24&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+Azure+Cloud+%7C+Kubernetes;Building+Scalable+and+Robust+Applications;Always+Learning+Something+New+☕" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tridentsof&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile views"/>
-</p>
-
----
-
-### 🚀 About Me
-Full-stack developer passionate about building robust applications across backend, frontend, cloud, and DevOps.  
-I focus on performance, scalability, and creating solutions that drive real impact.  
-
-- 🔭 Currently working in the **Insurance Industry**  
-- 🌱 Exploring **Azure Cloud** & **Kubernetes orchestration**  
-- 💼 Open to **freelance opportunities** and collaborations  
-- 💬 Ask me about **ASP.NET, Docker, VueJS, Azure**  
-- 📫 Reach me: [tridpt.it@outlook.com](mailto:tridpt.it@outlook.com)  
-- 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/tri-dang-phuoc-trident-85b066244/)
-
----
-
-### 🧠 Tech Stack
-| Cloud & DevOps | Backend | Frontend | Tools & OS |
-|-----------------|----------|-----------|-------------|
-| ![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge) | ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge) ![ASP.NET](https://img.shields.io/badge/ASP.NET-68217A?logo=dotnet&logoColor=white&style=for-the-badge) ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=MicrosoftSQLServer&logoColor=white&style=for-the-badge) | ![VueJS](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge) | ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge) ![VS Code](https://img.shields.io/badge/VS_Code-0078D7?logo=visual-studio-code&logoColor=white&style=for-the-badge) ![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white&style=for-the-badge) |
-
----
-
-### 🏆 Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tridentsof&theme=algolia&no-frame=true&margin-w=10&margin-h=10" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=650&lines=$+whoami;>+Dang+Phuoc+Tri;>+Azure+Cloud+Engineer;>+Freelance+Full-Stack+Developer;>+Keep+it+clean+|+Keep+it+scalable+|+Keep+it+simple" alt="Typing SVG" />
 </p>
 
 ---
 
-### 📈 GitHub Analytics
+```bash
+$ cat about_me.txt
+```
+> Full-stack developer passionate about building performant and scalable systems.  
+> Experienced across backend, frontend, cloud, and DevOps.  
+> Currently building enterprise solutions in the **Insurance Industry**.  
+> Always exploring new cloud architectures and automation workflows.  
+
+---
+
+```bash
+$ skills --list
+```
+🧠 **Cloud / DevOps:** Azure | Kubernetes | Docker  
+🖥️ **Backend:** .NET | ASP.NET | SQL  
+🌐 **Frontend:** VueJS | HTML | CSS  
+⚙️ **Tools & OS:** Linux | VS Code | Git  
+
+---
+
+```bash
+$ projects --highlight
+```
+> *(Coming soon — add your key repositories here)*  
+> 🧩 `Project 1` — Short description  
+> 💡 `Project 2` — Short description  
+> ⚙️ `Project 3` — Short description  
+
+---
+
+```bash
+$ stats --github
+```
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tridentsof&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tridentsof&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tridentsof&show_icons=true&theme=chartreuse-dark&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tridentsof&theme=chartreuse-dark&hide_border=true" height="165" />
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tridentsof&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tridentsof&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 ---
 
-### 🎨 Fun Facts
-- 🎸 Play guitar & discover indie music  
-- 🌏 Explore cloud tech and DevOps blogs  
-- ☕ Fuel coding sessions with Vietnamese coffee  
+```bash
+$ trophies --show
+```
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=tridentsof&theme=matrix&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</p>
 
 ---
 
-⭐ *“Code is like humor — when you have to explain it, it’s bad.” – Cory House*
+```bash
+$ fun_facts --random
+```
+- 🎸 Play guitar & explore indie music  
+- ☕ Brew the perfect cup of Vietnamese coffee  
+- 🛰️ Automate everything that can be automated  
+
+---
+
+```bash
+$ contact --info
+```
+📫 [tridpt.it@outlook.com](mailto:tridpt.it@outlook.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/tri-dang-phuoc-trident-85b066244/)  
+🌐 Portfolio → *(coming soon)*  
+
+---
+
+<!-- 🐍 Optional contribution snake (enable via workflow)
+<p align="center">
+  <img src="https://github.com/tridentsof/tridentsof/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+-->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</p>
+
+<p align="center"><i style="color:#00FF00;">keep it clean | keep it scalable | keep it simple</i></p>
